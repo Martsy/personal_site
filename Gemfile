@@ -1,8 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "minitest"
-gem "pry"
-gem "rake"
-gem "capybara"
-gem "launchy"
-gem "rack"
+gem 'capybara'
+gem 'launchy'
+gem 'minitest'
+gem 'pry'
+gem 'rack'
+gem 'rake'
